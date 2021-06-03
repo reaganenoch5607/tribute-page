@@ -1,0 +1,33 @@
+header {
+    background-color: black;
+    color: white;
+    padding: 25px;
+    margin-top: -9px;
+    width: auto;
+}
+.content {
+    color: rgb(182, 181, 181);
+}
+.con{
+    text-align: center;
+    color: rgb(182, 181, 181);
+
+}
+h2{
+    text-align: center;
+}
+main {
+    padding: 20px;
+    margin: 2em;
+    background-color: rgb(197, 196, 196);
+    border-radius: 20px;
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.image{
+    background-color: white;
+}
